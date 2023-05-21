@@ -1,0 +1,20 @@
+[
+    {
+            "_id": "6458d0757fde8c5c25f14952",
+            "name": "shubham soni",
+            "email": "shubham@gmail.com",
+            "role": "publisher",
+            "password": "1234567",
+            "createdAt": "2023-05-08T10:35:33.589Z",
+            "__v": 0
+    },
+    {
+                "_id": "6458d0987fde8c5c25f14959",
+                "name": "deepak suthar",
+                "email": "deepak@gmail.com",
+                "role": "user",
+                "password": "1234567",
+                "createdAt": "2023-05-08T10:36:08.458Z",
+                "__v": 0
+    }
+]

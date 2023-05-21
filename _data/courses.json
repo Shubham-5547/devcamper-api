@@ -1,0 +1,38 @@
+[
+     {
+            "_id": "64594fd7f4473fc0d5f3c0e8",
+            "title": "Front End Web Development",
+            "description": "This course will make you a front end web developer and upgrade your skills.",
+            "weeks": "8",
+            "tutionCost": 10000,
+            "minimumSkill": "beginner",
+            "scholarshipAvailable": false,
+            "bootcamp": {
+                "_id": "6458d1117fde8c5c25f14960",
+                "name": "Moderntech",
+                "description": "Modern tech has one goal and that is to make you a rockstar developer.",
+                "id": "6458d1117fde8c5c25f14960"
+            },
+            "user": "64594fa3f4473fc0d5f3c0e1",
+            "createdAt": "2023-05-08T19:39:03.658Z",
+            "__v": 0
+        },
+        {
+            "_id": "64594ff4f4473fc0d5f3c0ee",
+            "title": "Full stack Web Development",
+            "description": "This course will make you a full stack web developer and upgrade your skills.",
+            "weeks": "8",
+            "tutionCost": 10000,
+            "minimumSkill": "beginner",
+            "scholarshipAvailable": false,
+            "bootcamp": {
+                "_id": "6458d1117fde8c5c25f14960",
+                "name": "Moderntech",
+                "description": "Modern tech has one goal and that is to make you a rockstar developer.",
+                "id": "6458d1117fde8c5c25f14960"
+            },
+            "user": "64594fa3f4473fc0d5f3c0e1",
+            "createdAt": "2023-05-08T19:39:32.672Z",
+            "__v": 0
+        }
+    ]

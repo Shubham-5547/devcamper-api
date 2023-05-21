@@ -1,0 +1,22 @@
+[
+    {
+            "_id": "6458d18d7fde8c5c25f1496b",
+            "title": "nice bootcamp",
+            "text": "i learned a lot",
+            "ratings": 10,
+            "bootcamp": {
+                "_id": "6458d1117fde8c5c25f14960",
+                "name": "Moderntech",
+                "description": "Modern tech has one goal and that is to make you a rockstar developer.",
+                "id": "6458d1117fde8c5c25f14960"
+            },
+            "user": "6458d0987fde8c5c25f14959",
+            "createdAt": "2023-05-08T10:40:13.151Z",
+            "__v": 0
+    }
+    
+    
+    
+    
+    
+]

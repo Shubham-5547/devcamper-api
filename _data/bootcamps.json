@@ -1,0 +1,67 @@
+
+[
+    {
+        "location": {
+            "type": [
+                "Point"
+            ],
+            "coordinates": [
+                -71.3232,
+                42.64981
+            ],
+            "formattedAddress": "220 Pawtucket St, Lowell, MA 01854-3558, US",
+            "street": "220 Pawtucket St",
+            "city": "Lowell",
+            "state": "MA",
+            "zipcode": "01854-3558",
+            "country": "US"
+        },
+        "_id": "6458d1117fde8c5c25f14960",
+        "name": "Moderntech",
+        "description": "Modern tech has one goal and that is to make you a rockstar developer.",
+        "website": "https://moderntech.com",
+        "phone": "(111) 111-1111",
+        "email": "enroll@moderntech.com",
+        "address": "220 Pawtucket St, Lowell, MA 01854-3558, US",
+        "careers": "Mobile development",
+        "photo": "no-photo.jpg",
+        "housing": false,
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true,
+        "user": "6458d0757fde8c5c25f14952",
+        "createdAt": "2023-05-08T10:38:09.427Z",
+        "slug": "moderntech",
+        "__v": 0,
+        "averageRating": 8.5,
+        "averageCost": 15000,
+        "courses": [
+            {
+                "_id": "64594af1f553c7515f808427",
+                "title": "Full stack Web Development",
+                "description": "This course will make you a full stack web developer and upgrade your skills.",
+                "weeks": "24",
+                "tutionCost": 20000,
+                "minimumSkill": "intermidiate",
+                "scholarshipAvailable": false,
+                "bootcamp": "6458d1117fde8c5c25f14960",
+                "user": "6458d0757fde8c5c25f14952",
+                "createdAt": "2023-05-08T19:18:09.411Z",
+                "__v": 0
+            },
+            {
+                "_id": "64594b29f553c7515f80842d",
+                "title": "Front End Web Development",
+                "description": "This course will make you a front end web developer and upgrade your skills.",
+                "weeks": "8",
+                "tutionCost": 10000,
+                "minimumSkill": "beginner",
+                "scholarshipAvailable": false,
+                "bootcamp": "6458d1117fde8c5c25f14960",
+                "user": "6458d0757fde8c5c25f14952",
+                "createdAt": "2023-05-08T19:19:05.003Z",
+                "__v": 0
+            }
+        ]
+    }
+]
